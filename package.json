@@ -61,7 +61,8 @@
     "testatic": "^0.1.0",
     "tmp-sync": "^1.1.0",
     "webpack": "^1.13.1",
-    "webshot": "^0.18.0"
+    "webshot": "^0.18.0",
+    "require-dir": "^1.2.0"
   },
   "dependencies": {
     "angular": "1.x",
